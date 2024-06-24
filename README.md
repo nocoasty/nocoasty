@@ -33,6 +33,10 @@ const chaseCarlisle = {
 <br>
 <br>
 <br>
+
+### my day to day ⤵
+<br>
+<br>
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRrNTd5Z3V6bXk5OTJ4dmtxeG5razdhaGZtOGV2ZXpsazdreHJhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3g3m37DSi2mRDqYvmr/giphy-downsized.gif" width="300">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNmdHk1bG1sdTAzanEyMTJnMGxlemYxMGluMmxuYXZqbmcwd25xMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WQSMkyZtQHMPDpJRw/giphy-downsized-large.gif" width="300">
