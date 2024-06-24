@@ -1,12 +1,16 @@
-&nbsp;<div align="center"><img src="https://static.wixstatic.com/media/81cb05_ca2537d654a3411a832e8fc4da90369b~mv2.jpg">
- # howdy < y'all/ > <br> i'm chase carlisle
+<div align="center">
+<br>
+<img src="https://static.wixstatic.com/media/81cb05_ef9bb1f8ef4443fdb7943a81ec85d531~mv2.png"></div>
+ <div align="center">
+  
+ # howdy <y'all/>
 
+  <br>
+<img src="https://static.wixstatic.com/media/81cb05_438f335f27a440c98717f03790bd01cd~mv2.png" width="300">
+ </div> 
+ <br>
 
-<img src="https://static.wixstatic.com/media/81cb05_fe62b26fbdf04d2bbe08302205ecc514~mv2.png" width="250">
-</div>
-
-### deets 
-
+### deets
 ```javascript
 const chaseCarlisle = {
   about: "Father" | "Husband" | "Nomad" | "Founder",
@@ -26,7 +30,9 @@ const chaseCarlisle = {
             bus conversion company and raising 2 kids"
 }
 ```
-<br><br>
+<br>
+<br>
+<br>
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRrNTd5Z3V6bXk5OTJ4dmtxeG5razdhaGZtOGV2ZXpsazdreHJhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3g3m37DSi2mRDqYvmr/giphy-downsized.gif" width="300">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNmdHk1bG1sdTAzanEyMTJnMGxlemYxMGluMmxuYXZqbmcwd25xMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WQSMkyZtQHMPDpJRw/giphy-downsized-large.gif" width="300">
@@ -36,14 +42,16 @@ const chaseCarlisle = {
 <br><br><br>
 </div>
 
-### let's get social
-  
+### let's get social ⤵
+
+<br>
+<br>
 <div align="center">
-  
-[![LinkedIn](https://static.wixstatic.com/media/81cb05_cd219f4357df4f608c87ff01fed0900b~mv2.png)](https://www.linkedin.com/in/chasecarlisle)
-[![NoCoastVans](https://static.wixstatic.com/media/81cb05_7c1f19b4a057483bbb9fa97c19acf13e~mv2.png)](https://www.nocoastvans.com)
-[![Email](https://static.wixstatic.com/media/81cb05_4f3d1d957b8b4836899da42624ed1b8e~mv2.png)](mailto:hello@nocoastvans.com)
-[![YouTube](https://static.wixstatic.com/media/81cb05_2d64105f274c4fbf84fbc8f42e029a24~mv2.png)](https://youtube.com/@mariajoseandchase)
-[![Instagram](https://static.wixstatic.com/media/81cb05_171640dd08574286b1f018462c198ff0~mv2.png)](https://www.instagram.com/mariajoseandchase/)
+
+[![LinkedIn](https://static.wixstatic.com/media/81cb05_0a66fe84f2fa46dea5088378e2e98398~mv2.png)](https://www.linkedin.com/in/chasecarlisle)
+[![NoCoastVans](https://static.wixstatic.com/media/81cb05_2657e72769224f9d9af1380ec2a9c5a9~mv2.png)](https://www.nocoastvans.com)
+[![Email](https://static.wixstatic.com/media/81cb05_79bcf1ee19e94d8182643c65cceaf3b6~mv2.png)](mailto:hello@nocoastvans.com)
+[![YouTube](https://static.wixstatic.com/media/81cb05_b53b39ff384149efa33d3a149c718a7e~mv2.png)](https://youtube.com/@mariajoseandchase)
+[![Instagram](https://static.wixstatic.com/media/81cb05_d15387aab049453889f2b68348f8a58d~mv2.png)](https://www.instagram.com/mariajoseandchase/)
   
 </div>
