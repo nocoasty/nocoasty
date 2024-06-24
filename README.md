@@ -2,7 +2,7 @@
  # Howdy < y'all/ > <br> I'm Chase Carlisle
 </div>
 
-<img src="https://static.wixstatic.com/media/81cb05_fe62b26fbdf04d2bbe08302205ecc514~mv2.png" align="right" width="250">
+<img src="https://static.wixstatic.com/media/81cb05_fe62b26fbdf04d2bbe08302205ecc514~mv2.png" align="right" width="200">
 
 ### deets 
 
@@ -27,11 +27,11 @@ const chaseCarlisle = {
 ```
 <br><br>
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRrNTd5Z3V6bXk5OTJ4dmtxeG5razdhaGZtOGV2ZXpsazdreHJhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3g3m37DSi2mRDqYvmr/giphy-downsized.gif" width="450">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNmdHk1bG1sdTAzanEyMTJnMGxlemYxMGluMmxuYXZqbmcwd25xMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WQSMkyZtQHMPDpJRw/giphy-downsized-large.gif" width="450">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRrNTd5Z3V6bXk5OTJ4dmtxeG5razdhaGZtOGV2ZXpsazdreHJhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3g3m37DSi2mRDqYvmr/giphy-downsized.gif" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNmdHk1bG1sdTAzanEyMTJnMGxlemYxMGluMmxuYXZqbmcwd25xMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WQSMkyZtQHMPDpJRw/giphy-downsized-large.gif" width="300">
   <BR>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdhaHY1dTY5bGNlcmtpdXF3N3J0bGtmaGpjMXExaG03M2YzMmNkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oakVX0WIIa5ewhMpZL/giphy-downsized.gif" width="450">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHljMzhjNDR4Z3lxejV1bTRzbTVhanRueDU1NGFidzFmc3h6NXczYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkwpC5yBOXyci2lHVW/giphy-downsized.gif" width="450">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdhaHY1dTY5bGNlcmtpdXF3N3J0bGtmaGpjMXExaG03M2YzMmNkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oakVX0WIIa5ewhMpZL/giphy-downsized.gif" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHljMzhjNDR4Z3lxejV1bTRzbTVhanRueDU1NGFidzFmc3h6NXczYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkwpC5yBOXyci2lHVW/giphy-downsized.gif" width="300">
 <br><br><br>
 </div>
 
