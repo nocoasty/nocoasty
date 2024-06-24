@@ -1,8 +1,9 @@
 &nbsp;<div align="center"><img src="https://static.wixstatic.com/media/81cb05_ca2537d654a3411a832e8fc4da90369b~mv2.jpg">
  # howdy < y'all/ > <br> i'm chase carlisle
-</div>
 
-<img src="https://static.wixstatic.com/media/81cb05_fe62b26fbdf04d2bbe08302205ecc514~mv2.png" align="right" width="200">
+
+<img src="https://static.wixstatic.com/media/81cb05_fe62b26fbdf04d2bbe08302205ecc514~mv2.png" width="250">
+</div>
 
 ### deets 
 
