@@ -57,5 +57,11 @@ const chaseCarlisle = {
 [![Email](https://static.wixstatic.com/media/81cb05_79bcf1ee19e94d8182643c65cceaf3b6~mv2.png)](mailto:hello@nocoastvans.com)
 [![YouTube](https://static.wixstatic.com/media/81cb05_b53b39ff384149efa33d3a149c718a7e~mv2.png)](https://youtube.com/@mariajoseandchase)
 [![Instagram](https://static.wixstatic.com/media/81cb05_d15387aab049453889f2b68348f8a58d~mv2.png)](https://www.instagram.com/mariajoseandchase/)
+
+  <br>
+  <br>
+  <br>
   
+   ![GitHub Views](https://komarev.com/ghpvc/?username=nocoasty&color=FFAA74)
+
 </div>
