@@ -1,14 +1,11 @@
 <div align="center">
 <br>
-<img src="https://static.wixstatic.com/media/81cb05_ef9bb1f8ef4443fdb7943a81ec85d531~mv2.png"></div>
- <div align="center">
-  
- # howdy <y'all/>
-
+<img src="https://static.wixstatic.com/media/81cb05_f41e07adc40b46f3841464265a331302~mv2.png"></div>
   <br>
-<img src="https://static.wixstatic.com/media/81cb05_438f335f27a440c98717f03790bd01cd~mv2.png" width="300">
- </div> 
  <br>
+<img src="https://static.wixstatic.com/media/81cb05_438f335f27a440c98717f03790bd01cd~mv2.png" width="300">
+
+ # i'm chase ⤴ <br> <br> it's really great to see you here
 
 ### deets
 ```javascript
@@ -38,11 +35,16 @@ const chaseCarlisle = {
 <br>
 <br>
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRrNTd5Z3V6bXk5OTJ4dmtxeG5razdhaGZtOGV2ZXpsazdreHJhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3g3m37DSi2mRDqYvmr/giphy-downsized.gif" width="300">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNmdHk1bG1sdTAzanEyMTJnMGxlemYxMGluMmxuYXZqbmcwd25xMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6WQSMkyZtQHMPDpJRw/giphy-downsized-large.gif" width="300">
-  <BR>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdhaHY1dTY5bGNlcmtpdXF3N3J0bGtmaGpjMXExaG03M2YzMmNkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oakVX0WIIa5ewhMpZL/giphy-downsized.gif" width="300">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHljMzhjNDR4Z3lxejV1bTRzbTVhanRueDU1NGFidzFmc3h6NXczYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkwpC5yBOXyci2lHVW/giphy-downsized.gif" width="300">
+<img src="https://github.com/nocoasty/nocoasty_pub/blob/main/nocoasty_public/getting-wood-gif.gif?raw=true" width="300">
+<img src="https://github.com/nocoasty/nocoasty_pub/blob/main/nocoasty_public/newgifskylight.gif?raw=true" width="300">
+ <br>
+<img src="https://github.com/nocoasty/nocoasty_pub/blob/main/nocoasty_public/skylight-gif.gif?raw=true" width="300">
+<img src="https://github.com/nocoasty/nocoasty_pub/blob/main/nocoasty_public/removing-air-intakes.gif?raw=true" width="300">
+  <br>
+<img src="https://github.com/nocoasty/nocoasty_pub/blob/main/nocoasty_public/sprayfoaming.gif?raw=true" width="300">
+<img src="https://github.com/nocoasty/nocoasty_pub/blob/main/nocoasty_public/solar-system-gif.gif?raw=true" width="300">
+
+
 <br><br><br>
 </div>
 
