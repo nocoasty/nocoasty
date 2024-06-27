@@ -43,6 +43,8 @@ const chaseCarlisle = {
   <br>
 <img src="https://github.com/nocoasty/nocoasty_pub/blob/main/nocoasty_public/sprayfoaming.gif?raw=true" width="300">
 <img src="https://github.com/nocoasty/nocoasty_pub/blob/main/nocoasty_public/solar-system-gif.gif?raw=true" width="300">
+<br>
+<img src="https://github.com/nocoasty/nocoasty_pub/blob/main/nocoasty_public/metal-bending-gif.gif?raw=true" width="300">
 
 
 <br><br><br>
