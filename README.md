@@ -29,7 +29,14 @@ const chaseCarlisle = {
 ```
 <br>
 <br>
+
+<div align="center">
+
+[![nocoasty's github stats](https://github-readme-stats.vercel.app/api?username=nocoasty)](https://github.com/nocoasty/github-readme-stats)
+
+</div>
 <br>
+
 
 ### my day to day ⤵
 <br>
@@ -47,7 +54,7 @@ const chaseCarlisle = {
 <img src="https://github.com/nocoasty/nocoasty_pub/blob/main/nocoasty_public/metal-bending-gif.gif?raw=true" width="300">
 
 
-<br><br><br>
+<br><br>
 </div>
 
 ### let's get social ⤵
