@@ -32,7 +32,10 @@ const chaseCarlisle = {
 
 <div align="center">
 
-[![nocoasty's github stats](https://github-readme-stats.vercel.app/api?username=nocoasty)](https://github.com/nocoasty/github-readme-stats)
+![nocoasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=nocoasty&theme=nord&show_icons=true) 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nocoasty&theme=nord&layout=donut)
 
 </div>
 <br>
